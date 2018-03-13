@@ -1,4 +1,4 @@
-WARNING DO NOT USE ANY OF THIS CODE. IT MAY STEAL YOUR KEYS. THIS FORK IS BEING KEPT FOR ARCHIVAL REASONS ONLY.
+THIS IS HOW MYBTGWALLET CODE LOOKED LIKE ON THE OFFICIAL GITHUB ACCOUNT OF JOHN DASS. FEEL FREE TO EXPLORE IT BUT BE CAREFUL WHEN YOU USE IT AS IT MIGHT STEEL YOUR KEYS.
 
 # Bitcoin Gold - Open Source Wallet!
 This project is not finished but is stable for check balances. When Bitcoin Gold Team release nodes and more information i will finish this adding the option of Create New Seed / Wallet and the option to Transfer funds of BTG from Here!.
@@ -13,7 +13,7 @@ The first idea of this project is provide an Open Source alternative for Browser
 	- Bip39 by BitcoinJS: https://github.com/bitcoinjs/bip39
 	- Special Credits to Ian Coleman, part of this project is based in his public tool for Bip39.
 
-
+ORIGINAL TEXT FROM DEVELOPER JOHN DASS
  # About Me
 My nickname is JohnDass, im an enthusiasm developer of Open Source Website Proyects and really interested in the Blockchain Technology.
 My projects are maked without any type of profit, so if you want help me you can Donate to: 18UALTRrX4AnJsEgsUpwNsMv52DhqyzUjU
