@@ -1,4 +1,4 @@
-THIS IS HOW MYBTGWALLET CODE LOOKED LIKE ON THE OFFICIAL GITHUB ACCOUNT OF JOHN DASS. FEEL FREE TO EXPLORE IT BUT BE CAREFUL WHEN YOU USE IT AS IT MIGHT STEEL YOUR KEYS.
+THIS IS HOW MYBTGWALLET CODE LOOKED LIKE ON THE OFFICIAL GITHUB ACCOUNT OF JOHN DASS. FEEL FREE TO EXPLORE IT BUT BE CAREFUL WHEN YOU USE IT AS IT MIGHT STEAL YOUR KEYS.
 
 # Bitcoin Gold - Open Source Wallet!
 This project is not finished but is stable for check balances. When Bitcoin Gold Team release nodes and more information i will finish this adding the option of Create New Seed / Wallet and the option to Transfer funds of BTG from Here!.
